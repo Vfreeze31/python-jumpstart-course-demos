@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\apps",
-    "\\apps\\02-guess-number-app\\you_try",
-    "\\apps\\03_birthday",
-    "\\apps\\03_birthday\\you_try"
+    "\\apps\\04_journal",
+    "\\apps\\04_journal\\you_try",
+    "\\apps\\04_journal\\you_try\\journals"
   ],
-  "SelectedNode": "\\apps\\03_birthday\\you_try",
+  "SelectedNode": "\\apps\\04_journal\\you_try\\journal.py",
   "PreviewInSolutionExplorer": false
 }
