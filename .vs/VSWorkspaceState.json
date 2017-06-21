@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\apps",
-    "\\apps\\04_journal",
-    "\\apps\\04_journal\\you_try",
-    "\\apps\\04_journal\\you_try\\journals"
+    "\\apps\\05_weather_client",
+    "\\apps\\05_weather_client\\you_try"
   ],
-  "SelectedNode": "\\apps\\04_journal\\you_try\\journal.py",
+  "SelectedNode": "\\apps\\05_weather_client\\you_try\\program.py",
   "PreviewInSolutionExplorer": false
 }
